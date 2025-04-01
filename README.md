@@ -1,7 +1,7 @@
 # TinyMLP
 TinyMLP is a header only itsy bitsy teeny weeny little dotted poked multi layered fully conected perceptron network.
 
-I often use small MLPs to perform fuzzy pattern matchings or emulate certain functions, and its easier to plugin a small heaser rather than go to python and use the big guns.
+I often use small MLPs to perform fuzzy pattern matchings or emulate certain functions, and its easier to plugin a small header rather than go to python and use the big guns.
 
 ## Example 1 - train network to emulate 'not' logic:
 ```cpp
